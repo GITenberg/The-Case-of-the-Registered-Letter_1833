@@ -1,5 +1,5 @@
 _repo: The-Case-of-the-Registered-Letter_1833
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Colbron, Grace Isabel
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1943
     gutenberg_agent_id: '720'
     url: http://www.gutenberg.org/2009/agents/720
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Groner, Auguste
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/719
 description: 'In Joe Muller: Detective, Being the Account of Some Adventures in the
   Professional Experience of a Member of the Imperial Austrian Police'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1833#The-Case-of-the-Registered-Letter
 gutenberg_issued: '1999-07-01'
 gutenberg_type: Text
 identifiers:
